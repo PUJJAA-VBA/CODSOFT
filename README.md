@@ -1,1 +1,2 @@
-This is my first repository in which I've completed three projects as a Python programming intern at CodSoft.
+This is my first repository with my works which I've done as a Python programming Intern at CodSoft.
+This repository consists of 3 mini projects: Calculator, To-do list, Rock Paper Scissors Game. 
